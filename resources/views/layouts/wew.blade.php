@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
 
+
+
 <head>
   <!-- Basic -->
   <meta charset="utf-8" />
@@ -8,7 +10,7 @@
   <!-- Mobile Metas -->
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <!-- Site Metas -->
-  <link rel="icon" href="{{asset('assets/images/favicon.png')}}" type="image/gif" />
+  <link rel="icon" href="images/favicon.png" type="image/gif" />
   <meta name="keywords" content="" />
   <meta name="description" content="" />
   <meta name="author" content="" />
@@ -16,13 +18,13 @@
   <title>Healet</title>
 
   <!-- bootstrap core css -->
-  <link rel="stylesheet" type="text/css" href="{{asset('assets/css/bootstrap.css')}}" />
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
   <!-- font awesome style -->
-  <link href="{{asset('assets/css/font-awesome.min.css')}}" rel="stylesheet" />
+  <link href="css/font-awesome.min.css" rel="stylesheet" />
   <!-- Custom styles for this template -->
-  <link href="{{asset('assets/css/style.css')}}" rel="stylesheet" />
+  <link href="css/style.css" rel="stylesheet" />
   <!-- responsive style -->
-  <link href="{{asset('assets/css/responsive.css')}}" rel="stylesheet" />
+  <link href="css/responsive.css" rel="stylesheet" />
 
 </head>
 
@@ -68,7 +70,7 @@
       <div class="row">
         <div class="col-md-6">
           <div class="img-box">
-            <img src="{{asset('assets/images/about-img.jpg')}}" alt="">
+            <img src="images/about-img.jpg" alt="">
           </div>
         </div>
         <div class="col-md-6">
@@ -142,7 +144,7 @@
             </h4>
             <div class="insta_box">
               <div class="img-box">
-                <img src="{{asset('assets/images/p1.png')}}" alt="">
+                <img src="images/p1.png" alt="">
               </div>
               <p>
                 long established fact that a reader
@@ -150,7 +152,7 @@
             </div>
             <div class="insta_box">
               <div class="img-box">
-                <img src="{{asset('assets/images/p2.png')}}" alt="">
+                <img src="images/p2.png" alt="">
               </div>
               <p>
                 long established fact that a reader
@@ -213,12 +215,16 @@
 
 
   <!-- jQery -->
-  <script src="{{asset('assets/js/jquery-3.4.1.min.js')}}"></script>
+  <script src="js/jquery-3.4.1.min.js"></script>
   <!-- bootstrap js -->
-  <script src="{{asset('assets/js/bootstrap.js')}}"></script>
+  <script src="js/bootstrap.js"></script>
   <!-- custom js -->
-  <script src="{{asset('assets/js/custom.js')}}"></script>
+  <script src="js/custom.js"></script>
 
 </body>
 
 </html>
+
+
+
+

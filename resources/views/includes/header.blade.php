@@ -1,9 +1,9 @@
 <header class="header_section">
     <div class="container-fluid">
       <nav class="navbar navbar-expand-lg custom_nav-container">
-        <a class="navbar-brand" href="index.html">
+        <a class="navbar-brand" href="home">
           <span>
-            Healet
+          {{__('messages.healet')}}
           </span>
         </a>
         <div class="" id="">
@@ -16,10 +16,10 @@
             </button>
             <div id="myNav" class="overlay">
               <div class="overlay-content">
-                <a href="index.html">Home</a>
-                <a href="about.html">About</a>
-                <a href="shop.html">Shop</a>
-                <a href="blog.html">Blog</a>
+                <a href="home">{{__('messages.home')}}</a>
+                <a href="Abouts">{{__('messages.about')}}</a>
+                <a href="shop">{{__('messages.shop')}}</a>
+                <a href="blog">{{__('messages.blog')}}</a>
               </div>
             </div>
           </div>

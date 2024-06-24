@@ -7,8 +7,8 @@
       <div class="col-md-9 col-lg-8">
         <div class="detail-box">
           <h1>
-            Best Jewellery
-            <br> Collection
+          {{__('messages.best_jewllery')}}
+            <br>  {{__('messages.collection')}}
           </h1>
           <p>
             It is a long established fact that a reader will be distracted by the readable content of a page when
@@ -16,7 +16,7 @@
           </p>
           <div>
             <a href="" class="slider-link">
-              Shop Now
+            {{__('messages.shop_now')}}
             </a>
           </div>
         </div>

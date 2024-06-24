@@ -8,8 +8,8 @@
               <h2>
                 Upto 15% Off
               </h2>
-              <a href="">
-                Shop Now
+              <a href="shop">
+              {{__('messages.shop_now')}}
               </a>
             </div>
           </div>
@@ -21,8 +21,8 @@
               <h2>
                 Upto 10% Off
               </h2>
-              <a href="">
-                Shop Now
+              <a href="shop">
+              {{__('messages.shop_now')}}
               </a>
             </div>
           </div>
@@ -30,10 +30,10 @@
             <img src="{{asset('assets/images/o3.jpg')}}" alt="">
             <div class="detail-box">
               <h2>
-                Upto 20% Off
+                {{__('messages.up_to_10%_off')}}
               </h2>
-              <a href="">
-                Shop Now
+              <a href="shop">
+              {{__('messages.shop_now')}}
               </a>
             </div>
           </div>

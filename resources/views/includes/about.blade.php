@@ -15,10 +15,8 @@
             </div>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti dolorem eum consequuntur ipsam repellat dolor soluta aliquid laborum, eius odit consectetur vel quasi in quidem, eveniet ab est corporis tempore.
-            </p>
-            <a href="{{ route('Abouts') }}">Read More</a>
-            <!-- <a href="">
-              Read More -->
+     
+              Read More
             </a>
           </div>
         </div>
